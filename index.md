@@ -2,6 +2,9 @@
 
 
 
+### WICHTIGER HINWEIS
+Die Entwickler der App "GoDial" übernehmen keinerlei Haftung für das Wählen von nicht erwünschten Telefonnummern (wie z.B. Notrufnummern, gebührenpflichtige Nummern und Dienste). Jeder gespeicherte Nummer wird durch den Anwender geprüft und bestätigt bevor sie gewählt wird.
+
 ### Datenschutz
 
 Datenschutzerklärung
